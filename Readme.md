@@ -1,1 +1,1 @@
-Repo for ML code (Assignement 3)
+Repo for ML code (Assignment 3)
